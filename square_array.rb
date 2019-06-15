@@ -4,3 +4,5 @@ def square_array(array)
     arr << numbers ** 2
   end
 end
+
+square_array(arr)
